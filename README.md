@@ -1,4 +1,4 @@
-# Flower for Una 🌸
+# Flower for her
 
 A handcrafted digital flower bouquet created as a heartfelt gift. Built with pure HTML, CSS, and JavaScript, this website features a fully illustrated SVG bouquet, soft animations, and an interactive greeting card experience—without using any frameworks or external image assets.
 
